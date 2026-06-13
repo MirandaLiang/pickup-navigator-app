@@ -13,6 +13,9 @@ npm run dev      # local dev server
 npm run build    # type-check + production build
 ```
 
+## Demo View from my portfolio
+https://www.mirandaliang.com/vibe-design
+
 ## Camera feed video
 
 The clip behind Figma's `Camera feed` node (14:3) is bundled at
